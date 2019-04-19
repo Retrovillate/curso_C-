@@ -1,0 +1,5 @@
+/home/parallels/Documents/objetos/objetos/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/parallels/Documents/objetos/objetos/bin/Debug/objetos.exe.mdb
+/home/parallels/Documents/objetos/objetos/bin/Debug/objetos.exe
+/home/parallels/Documents/objetos/objetos/obj/x86/Debug/objetos.exe
+/home/parallels/Documents/objetos/objetos/obj/x86/Debug/objetos.exe.mdb

@@ -1,0 +1,5 @@
+/home/parallels/Documents/Clases_abstrasctas/Clases_abstrasctas/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/parallels/Documents/Clases_abstrasctas/Clases_abstrasctas/bin/Debug/Clases_abstrasctas.exe.mdb
+/home/parallels/Documents/Clases_abstrasctas/Clases_abstrasctas/bin/Debug/Clases_abstrasctas.exe
+/home/parallels/Documents/Clases_abstrasctas/Clases_abstrasctas/obj/x86/Debug/Clases_abstrasctas.exe
+/home/parallels/Documents/Clases_abstrasctas/Clases_abstrasctas/obj/x86/Debug/Clases_abstrasctas.exe.mdb

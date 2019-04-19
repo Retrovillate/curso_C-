@@ -1,0 +1,5 @@
+/home/parallels/Documents/encapsulamiento/encapsulamiento/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/parallels/Documents/encapsulamiento/encapsulamiento/bin/Debug/encapsulamiento.exe.mdb
+/home/parallels/Documents/encapsulamiento/encapsulamiento/bin/Debug/encapsulamiento.exe
+/home/parallels/Documents/encapsulamiento/encapsulamiento/obj/x86/Debug/encapsulamiento.exe
+/home/parallels/Documents/encapsulamiento/encapsulamiento/obj/x86/Debug/encapsulamiento.exe.mdb

@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Clases_abstrasctas/Clases_abstrasctas.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Clases_abstrasctas/clsDirecciones.cs">
+    <Files>
+      <File FileName="Clases_abstrasctas/Program.cs" Line="14" Column="12" />
+      <File FileName="Clases_abstrasctas/ClsAbsCliente.cs" Line="35" Column="1" />
+      <File FileName="Clases_abstrasctas/ClseClienteBase.cs" Line="43" Column="8" />
+      <File FileName="Clases_abstrasctas/clsDirecciones.cs" Line="40" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

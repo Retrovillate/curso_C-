@@ -1,0 +1,5 @@
+/home/parallels/Documents/presentacion2/presentacion2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/parallels/Documents/presentacion2/presentacion2/bin/Debug/presentacion2.exe.mdb
+/home/parallels/Documents/presentacion2/presentacion2/bin/Debug/presentacion2.exe
+/home/parallels/Documents/presentacion2/presentacion2/obj/x86/Debug/presentacion2.exe
+/home/parallels/Documents/presentacion2/presentacion2/obj/x86/Debug/presentacion2.exe.mdb

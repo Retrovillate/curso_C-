@@ -1,0 +1,5 @@
+/home/parallels/Documents/herencia/herencia/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/parallels/Documents/herencia/herencia/bin/Debug/herencia.exe.mdb
+/home/parallels/Documents/herencia/herencia/bin/Debug/herencia.exe
+/home/parallels/Documents/herencia/herencia/obj/x86/Debug/herencia.exe
+/home/parallels/Documents/herencia/herencia/obj/x86/Debug/herencia.exe.mdb

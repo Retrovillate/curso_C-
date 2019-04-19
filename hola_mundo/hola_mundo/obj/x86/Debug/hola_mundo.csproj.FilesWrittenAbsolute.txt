@@ -1,0 +1,5 @@
+/home/parallels/Documents/hola_mundo/hola_mundo/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/parallels/Documents/hola_mundo/hola_mundo/bin/Debug/hola_mundo.exe.mdb
+/home/parallels/Documents/hola_mundo/hola_mundo/bin/Debug/hola_mundo.exe
+/home/parallels/Documents/hola_mundo/hola_mundo/obj/x86/Debug/hola_mundo.exe
+/home/parallels/Documents/hola_mundo/hola_mundo/obj/x86/Debug/hola_mundo.exe.mdb

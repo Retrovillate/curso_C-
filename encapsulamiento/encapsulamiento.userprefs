@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="encapsulamiento/encapsulamiento.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="encapsulamiento/clsEmpleados.cs">
+    <Files>
+      <File FileName="encapsulamiento/Program.cs" Line="16" Column="25" />
+      <File FileName="encapsulamiento/clsEmpleados.cs" Line="46" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

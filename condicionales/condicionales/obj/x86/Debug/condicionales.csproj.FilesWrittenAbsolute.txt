@@ -1,0 +1,5 @@
+/home/parallels/Documents/condicionales/condicionales/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/parallels/Documents/condicionales/condicionales/bin/Debug/condicionales.exe.mdb
+/home/parallels/Documents/condicionales/condicionales/bin/Debug/condicionales.exe
+/home/parallels/Documents/condicionales/condicionales/obj/x86/Debug/condicionales.exe
+/home/parallels/Documents/condicionales/condicionales/obj/x86/Debug/condicionales.exe.mdb
